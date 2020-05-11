@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Data;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 namespace Agenda
 {
     public class Person
@@ -9,6 +12,7 @@ namespace Agenda
         public string FirstName;
         public DateTime BirthData;
         public string EmailAdress;
+        public Agend Agenda;
         public string Name()
         {
             return $"{LastName}{FirstName}";
@@ -18,5 +22,7 @@ namespace Agenda
             return $"{Name()},{BirthData.ToShortDateString()}," +
                 $"{EmailAdress}";
         }
+
+       
     }
 }

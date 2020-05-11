@@ -1,0 +1,7 @@
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\UltraBook\Desktop\info\POO\8\Agenda\Agenda\Agenda\obj\Debug\Agenda.pdb
